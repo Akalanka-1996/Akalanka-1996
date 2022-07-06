@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kasun Akalanka</h1>
-<h3 align="center">An undergraduate in computer science who like to learn new things, work hard by cooperating with a team or as an individual. I am more keen on Web and Mobile Development</h3>
+<h3 align="center">An undergraduate in computer science who like to learn new things, work hard by cooperating with a team or as an individual. I am more keen on Web and Mobile Development.</h3>
 
 - 🔭 I’m currently working on [learnr](https://github.com/RACUOK/learnr)
 
