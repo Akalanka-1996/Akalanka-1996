@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kasun Akalanka</h1>
-<h3 align="center">An undergraduate in computer science who like to learn new things, work hard by cooperating with a team or as an individual. I am more keen on Web and Mobile Development</h3>
+<h3 align="center">A dedicated Node.js developer with a strong focus on backend development and a passion for continuous learning. Skilled in both collaborative teamwork
+and individual projects, I excel in adapting to diverse environments and leveraging my expertise to deliver exceptional results. With a specialization in backend development using Node.js, I am committed to mastering new technologies and constantly improving my skills. Eager to leverage my expertise and contribute to innovative projects in the field.</h3>
 
 - 🔭 I’m currently working on [https://github.com/RACUOK/learnr](https://github.com/RACUOK/learnr)
 
