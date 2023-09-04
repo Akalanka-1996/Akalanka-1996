@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **kasunakalanka4@gmail.com**
 
-- 📜 Get my CV from [https://rxresu.me/r/JdTrZ9md](Reactive Resume)
+- 📜 Get my CV from [Reactive Resume](https://rxresu.me/r/JdTrZ9md)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
