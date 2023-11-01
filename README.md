@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [https://github.com/RACUOK/learnr](https://github.com/RACUOK/learnr)
 
-- 💬 Ask me about **MERN Stack, React Native**
+- 💬 Ask me about **MERN Stack, NestJS**
 
 - 📫 How to reach me **kasunakalanka4@gmail.com**
 
