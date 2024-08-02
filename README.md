@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kasun Akalanka</h1>
 <h3 align="center">A dedicated Full-Stack developer with a strong focus on backend development and a passion for continuous learning. With a specialization in backend development using Node.js, I am committed to mastering new technologies and constantly improving my skills. Eager to leverage my expertise and contribute to innovative projects in the field.</h3>
 
-- 🔭 I’m currently working on [https://github.com/RACUOK/learnr](https://github.com/RACUOK/learnr)
+- 🔭 I’m currently learning [Next.js](https://nextjs.org/)
 
 - 💬 Ask me about **MERN Stack, NestJS**
 
