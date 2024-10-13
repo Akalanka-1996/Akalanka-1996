@@ -16,7 +16,7 @@
 
 💬 Ask me about **Node.js, Nest.js, MERN Stack... or anything [here](https://github.com/salesp07/salesp07/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **When I'm not busy lifting Node modules like Sisyphus with his boulder, you can find me lost in a book, time-traveling through old movies, or being bossed around by my cats. (Yes, they run the show!)**
 
  </div>
  
