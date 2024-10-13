@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a marketplace**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **Docker, Google Cloud, AWS**
 
 💬 Ask me about **Node.js, Nest.js, MERN Stack... or anything [here](https://github.com/salesp07/salesp07/issues)**
 
